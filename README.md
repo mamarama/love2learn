@@ -1,1 +1,1 @@
-# love2learn
+# https://mamarama.github.io/love2learn/
